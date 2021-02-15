@@ -20,4 +20,5 @@ berikut adalah project UAS Web Programming saya , disini saya membuat sebuah apl
 Aplikasi ini pun masih sangatlah sederhana , dan butuh revisi agar bisa menjadi lebih baik lagi. sehingga sangatlah berguna dan tanpa kendala oleh pengguna nya
 
 Terima kasih.
-Wassalamualaikum
+
+Wassalamualaikum Wr.WB
